@@ -2,7 +2,7 @@
 
 ESP32 Bluetooth-controlled self-balancing robot using a BNO055 IMU, quadrature encoders, and cascaded feedback control.
 
-![BalanceBot](media/balancebot.jpg)
+![BalanceBot](media/BalanceBot.jpg)
 
 ## Demo
 
